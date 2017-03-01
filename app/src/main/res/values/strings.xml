@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CashBook</string>
+    <string name="action_settings">查看图表</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="chart_cash">帐目图形统计表</string>
+    <string name="cash_title">账目名称</string>
+    <string name="cash_time">记录时间</string>
+    <string name="cash_number">账目金额（元）</string>
+    <string name="cash_title_hint">请输入账目名称</string>
+    <string name="cash_number_hint">请输入账目金额</string>
+    <string name="cash_time_hint">请选择记录时间：</string>
+</resources>
